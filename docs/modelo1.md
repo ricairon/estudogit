@@ -1,5 +1,5 @@
 ## 📌 HU - Enviar Boletim de Ocorrência Unificado
-| | |
+|  | |
 | :--- | :--- |
 | **Prioridade** | <kbd>🔴 Alta</kbd> |
 | **Complexidade** | ⭐⭐⭐⭐⭐ (Alta) |
@@ -9,13 +9,22 @@
 
 ---
 
-# Controle de Versão# Documentação do JSON - Estrutura "Pessoas"
+# Controle de Versão
+
+| Nº Demanda | Descrição  | Data Modificação | Responsável |
+| :--- | :--- | :--- | :--- |
+| #10425 |  |  27/06/2026 | Ricardo Lopes de Lima |
+
+
+# Documentação do JSON - Estrutura "Pessoas"
+
+
 
 Este documento descreve todos os campos do array `pessoas` presente no JSON de entrada, organizados por nível hierárquico.
 
 ---
 
-## 1. Nível Raiz – Objeto `Pessoa`
+## 1. Objeto `Pessoa`
 
 | Campo | Tipo | Obrigatório? | Observações / Exemplo |
 | :--- | :--- | :--- | :--- |
