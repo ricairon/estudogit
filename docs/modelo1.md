@@ -1,5 +1,5 @@
 ## 📌 HU - Enviar Boletim de Ocorrência Unificado
-| | |
+
 | :--- | :--- |
 | **Prioridade** | <kbd>🔴 Alta</kbd> |
 | **Complexidade** | ⭐⭐⭐⭐⭐ (Alta) |
