@@ -15,6 +15,18 @@
 | :--- | :--- | :--- | :--- |
 | #10425 |  |  27/06/2026 | Ricardo Lopes de Lima |
 
+---
+
+<details>
+<summary>Exemplo de Requisição Retrátil</summary>
+#### Estrutura Pessoa
+```json
+"pessoa":{
+    "codigoPessoa":"string",
+        
+}
+```
+</details>
 
 # Documentação do JSON - Estrutura "Pessoas"
 
